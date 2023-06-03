@@ -1,0 +1,27 @@
+.footer {
+    padding: 60px 0 50px;
+    margin-top: auto;
+    background-color: var(--dark-bg);
+    color: var(--white);
+}
+
+.footer__wrapper {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    row-gap: 27px;
+}
+
+.social {
+    display: flex;
+    column-gap: 30px;
+    align-items: center;
+}
+
+.copywrite {
+    font-size: 16px;
+}
+
+.copywrite p + p {
+    margin-top: 0.5em;
+}
