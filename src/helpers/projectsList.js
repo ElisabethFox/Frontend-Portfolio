@@ -20,7 +20,7 @@ const projects = [
     {
         title: "Gaming streaming portal",
         skills: "Skills: React, Node.js, MongoDB",
-        id: 1,
+        projectId: 1,
         img: project01,
         imgBig: project01Big,
         gitHubLink: 'https://github.com/ElisabethFox/Difference-calculator',
@@ -29,7 +29,7 @@ const projects = [
     {
         title: "Video service",
         skills: "Skills: React, Node.js, MongoDB",
-        id: 2,
+        projectId: 2,
         img: project02,
         imgBig: project02Big,
         gitHubLink: 'https://github.com/ElisabethFox/Difference-calculator',
@@ -38,16 +38,15 @@ const projects = [
     {
         title: "Datting app",
         skills: "Skills: React, Node.js, MongoDB",
-        id: 3,
+        projectId: 3,
         img: project03,
         imgBig: project03Big,
-        gitHubLink: 'https://github.com/ElisabethFox/Difference-calculator',
 
     },
     {
         title: "Video service",
         skills: "Skills: React, Node.js, MongoDB",
-        id: 4,
+        projectId: 4,
         img: project04,
         imgBig: project04Big,
         gitHubLink: 'https://github.com/ElisabethFox/Difference-calculator',
@@ -56,7 +55,7 @@ const projects = [
     {
         title: "Gaming streaming portal",
         skills: "Skills: React, Node.js, MongoDB",
-        id: 5,
+        projectId: 5,
         img: project05,
         imgBig: project05Big,
         gitHubLink: 'https://github.com/ElisabethFox/Difference-calculator',
@@ -65,7 +64,7 @@ const projects = [
     {
         title: "Datting app",
         skills: "Skills: React, Node.js, MongoDB",
-        id: 6,
+        projectId: 6,
         img: project06,
         imgBig: project06Big,
         gitHubLink: 'https://github.com/ElisabethFox/Difference-calculator',
